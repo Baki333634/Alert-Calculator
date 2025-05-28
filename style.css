@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    border: 2px solid snow;
+    border-radius: 23px;
+    box-shadow: 1px 2px 50px 12px red;
+    text-shadow: 1px 2px 50px 4px blue;
+    font-size: x-large;
+}
